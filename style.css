@@ -3,7 +3,7 @@
 h1{
     text-align: center;
     font-size: 50px;
-    color: brown;
+    color: rgb(28, 51, 116);
 }
 
 P{
@@ -14,5 +14,5 @@ P{
 
 
     body{
-        background-color: bisque;
+        background-color: rgb(207, 246, 252);
     }
