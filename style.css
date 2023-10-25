@@ -16,3 +16,8 @@ P{
     body{
         background-color: rgb(212, 239, 243);
     }
+
+    .container img {
+        max-width:300px;
+        width: auto;
+    }
