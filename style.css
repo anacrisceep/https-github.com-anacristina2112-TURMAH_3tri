@@ -16,6 +16,7 @@ P{
     body{
         background-color: rgb(212, 239, 243);
         font-size: 40px;
+        font-family: sans-serif;
     }
 
     .container img {
