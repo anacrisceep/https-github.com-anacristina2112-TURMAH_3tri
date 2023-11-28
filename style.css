@@ -19,7 +19,7 @@ P{
         font-family: sans-serif;
     }
 
-    #logocurso {
+    .logocurso {
         max-width:300px;
         width: auto;
         padding: 10px;
