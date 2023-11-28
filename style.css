@@ -19,6 +19,15 @@ P{
         font-family: sans-serif;
     }
 
+    .imagem_fundo{
+        max-width:500px;
+        width: auto;
+        padding: 10px;
+        margin: 15px;
+       
+
+    }
+
     #logocurso {
         max-width:200px;
         width: auto;
