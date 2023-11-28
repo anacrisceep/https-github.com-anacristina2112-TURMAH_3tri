@@ -27,25 +27,9 @@ P{
         border: solid rgb(32, 61, 113);
 
     }
-    #planofundoazul {
-        max-width:200px;
-        width: auto;
-        padding: 10px;
-        margin: 15px;
-        border: solid rgb(32, 61, 113);
-
-    }
-
-    #alunosvisita {
-        max-width:200px;
-        width: auto;
-        padding: 10px;
-        margin: 15px;
-        border: solid rgb(32, 61, 113);
-
-    }
-
-    #imagemalunos {
+    
+        
+    #imagem{
         max-width:200px;
         width: auto;
         padding: 10px;
