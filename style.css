@@ -28,6 +28,7 @@ P{
         border-bottom: 5px solid white;
         display: flex;
         justify-content: space-around;
+        text-align:left ;
     }
 
     .principal{
@@ -40,7 +41,7 @@ P{
         width: auto;
         padding: 5px;
         margin: 10px;
-        text-align: center;
+        
        
     }
     
