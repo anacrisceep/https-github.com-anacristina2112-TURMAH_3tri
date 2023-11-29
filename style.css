@@ -1,5 +1,9 @@
 
-
+h2{
+    text-align: center;
+    font: 30px;
+    color: rgb(48, 48, 184);
+}
 h1{
     text-align: center;
     font-size: 30px;
@@ -25,7 +29,6 @@ P{
 
     
     #logocurso {
-        margin: auto;
         max-width: 200px;
         width: auto;
         padding: 5px;
@@ -51,3 +54,5 @@ P{
         font-size: 20px;
         list-style-position: inside;
     }
+
+   
