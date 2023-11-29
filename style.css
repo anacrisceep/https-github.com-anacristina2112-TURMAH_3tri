@@ -22,6 +22,11 @@ P{
         font-size: 40px;
         font-family: sans-serif;
     }
+    header{
+        padding: 20px;
+        background-color: rgb(218, 226, 233);
+        border-bottom: 5px solid white;
+    }
 
     .principal{
         background-color: #9372f6;
