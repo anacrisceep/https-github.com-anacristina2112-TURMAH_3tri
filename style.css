@@ -35,7 +35,7 @@ P{
     }
 
     
-    .logocurso {
+    #logocurso {
         max-width: 200px;
         width: auto;
         padding: 5px;
