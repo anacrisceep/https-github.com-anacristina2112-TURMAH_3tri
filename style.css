@@ -26,6 +26,8 @@ P{
         padding: 20px;
         background-color: rgb(119, 213, 245);
         border-bottom: 5px solid white;
+        display: flex;
+        justify-content: space-around;
     }
 
     .principal{
