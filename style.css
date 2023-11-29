@@ -1,7 +1,7 @@
 
-h4{
+h5{
     text-align: center;
-    font: 30px;
+    font: 20px;
     color: rgb(48, 48, 184);
 }
 
@@ -42,17 +42,15 @@ P{
     
        
     .imagem{
-        max-width:300px;
+        max-width:200px;
         width: auto;
-        padding: 10px;
-        margin: 15px;
-       
-
+        padding: 5px;
+        margin: 10px;
+     
     }
     .Integrado{
         font-size: 20px;
         list-style-position: inside;
-        display: inline-block;
     }
     
     .Subsequente {
@@ -60,4 +58,4 @@ P{
         list-style-position: inside;
     }
 
-   
+   1
