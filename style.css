@@ -25,7 +25,8 @@ P{
 
     
     #logocurso {
-        max-width:200px;
+        text-align: center;
+        max-width: 200px;
         width: auto;
         padding: 5px;
         margin: 10px;
