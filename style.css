@@ -17,14 +17,21 @@ P{
         font-size: 20px;
         font-family: sans-serif;
     }
-    header{
-        padding: 20px;
-        background-color: rgb(119, 213, 245);
-        border-bottom: 5px solid white;
+    header {
+        background-color: #333;
+        color: #fff;
+        padding: 15px;
         display: flex;
-        justify-content: space-around;
-        text-align:right ;
+        justify-content: space-between;
+        align-items: center;
     }
+    .imgHeader{
+        max-width:300px;
+        width: auto;
+        padding: 10px;
+        margin: 15px;
+ }
+
 
     .principal{
         background-color: #9372f6;
